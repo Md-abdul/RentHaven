@@ -8,15 +8,15 @@ Project: Make a Full-Stack website with provided reference website.
 
 Original-Website-Images : https://www.trulia.com/
 
-Cloned-Website: https://briks99.netlify.app/
+Cloned-Website: https://renthaven.netlify.app/
 
 HOW TO GO THROUGH THE PROJECT -
 - First, go to Login or signup ( for the first time ).
 - After Login You can surf the pages.
 - Go to Admin Page.
 - Use the following credentials to log in as Admin
-   - Username -  saurabh
-   - Password -  saurabh123
+   - Username -  abdul
+   - Password -  abdul123
 
 ## Landing Page (Dark Theme)
 
